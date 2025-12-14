@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the canonical Zenodo dataset."
+title: "Torres Digital Corpus: The 25 Counterpoint Examples from Melchor de Torres (1566)"
+type: dataset
+authors:
+  - family-names: Parrilla
+    given-names: Vicente
+    orcid: "https://orcid.org/0000-0002-9219-6156"
+doi: 10.5281/zenodo.17828789
+url: "https://doi.org/10.5281/zenodo.17828789"
+repository-code: "https://github.com/vparrilla/torres-digital-corpus"
+license: CC-BY-4.0
+keywords:
+  - Renaissance music
+  - improvised counterpoint
+  - counterpoint
+  - music theory
+  - MusicXML
+  - digital corpus
+  - early music
