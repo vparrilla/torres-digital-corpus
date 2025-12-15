@@ -1,6 +1,8 @@
 # Torres Digital Corpus  
 ## The 25 Counterpoint Examples from Melchor de Torres (1566)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17828789.svg)](https://doi.org/10.5281/zenodo.17828789)
+
 This GitHub repository provides supporting materials for the *Torres Digital Corpus*, a modern digital edition of the twenty-five solo counterpoint examples transmitted in Melchor de Torres’s *Arte ingeniosa de musica* (Alcalá de Henares, 1566). It is intended to facilitate inspection, reuse, and scholarly engagement with the corpus.
 
 ## Canonical dataset (Zenodo)
